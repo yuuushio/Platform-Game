@@ -2,6 +2,10 @@
 
 Implementation of a **JavaFx** Stickman platform game, in a highly objected oriented style; applying SOLID and GRASP principles using various design patterns.
 
+### Demo
+
+<img src="" width=""/>
+
 ### Usage
 
 Build the code:
