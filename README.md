@@ -1,6 +1,6 @@
-# StickMan
+# Platform Game
 
-Implementation of a **JavaFx** platform game - Stickman - in a highly objected oriented style; applying SOLID and GRASP principles using various design patterns.
+Implementation of a **JavaFx** Stickman platform game, in a highly objected oriented style; applying SOLID and GRASP principles using various design patterns.
 
 ### Usage
 
