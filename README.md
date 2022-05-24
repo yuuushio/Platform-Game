@@ -85,8 +85,7 @@ Movement is configured to use a raycasting algorithm. Raycasting is where a line
     - `DisplayHelper.java`: Implements `TextDrawer`. Used to add text to pane, and then render the updated texts (scores) according to observer.
 	- `LevelBuilderImpl.java`: extended to read lives and target score for the corressponding level file.
 
-To clone the state of the system for easier and efficient save & reload, an external API was used - referenced in `build.gradle` and 
-      in GameManager.java, wherever the Clone object is used. I will also list these references here:
-	 - https://search.maven.org/artifact/io.github.kostaskougios/cloning/1.10.3/bundle
-	 - https://stackoverflow.com/a/22546839
-	 - https://github.com/kostaskougios/cloning
+To clone the state of the system for easier and efficient save & reload, an external API was used - referenced in `build.gradle` and in GameManager.java, wherever the Clone object is used. I will also list these references here:
+- https://search.maven.org/artifact/io.github.kostaskougios/cloning/1.10.3/bundle
+- - https://stackoverflow.com/a/22546839
+- - https://github.com/kostaskougios/cloning
