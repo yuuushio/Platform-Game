@@ -4,7 +4,7 @@ Implementation of a **JavaFx** Stickman platform game, in a highly objected orie
 
 ### Demo
 
-<img src="" width=""/>
+<img src="https://raw.githubusercontent.com/yuuushio/Platform-Game/main/game_demo.gif" width="500"/>
 
 ### Usage
 
